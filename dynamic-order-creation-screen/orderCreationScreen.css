@@ -1,0 +1,17 @@
+/* Product card hover effect */
+.slds-box:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    transition: box-shadow 0.2s ease;
+}
+
+/* Grand total box */
+.slds-theme_shade {
+    border-radius: 4px;
+    padding: 8px 16px;
+}
+
+/* Section header */
+.slds-section__title {
+    border-radius: 4px;
+    font-weight: 600;
+}
